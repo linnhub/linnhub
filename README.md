@@ -2,7 +2,7 @@
 - 👀 I am a PhD candidate at the University of Oslo/Oslo University Hospital, working at the Norwegian Centre for Mental Disorders Research (NORMENT)
 - 🌱 I’m currently learning advanced statistical methods and the creation of beautiful plots in R. Former SPSS user. Send help. 
 - 💞️ My primary research interest is cognitive functioning and immune/inflammatory involvement in severe mental illness. 
-- 🧠 My background is psychology & neuroscience
+- 🧠 My formal educational background is from psychology & neuroscience
 - 📫 Twitter: @linnssaether
 
 <!---
