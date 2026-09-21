@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @linnhub
-- 👀 I hold a PhD from the University of Oslo/former Norwegian Centre for Mental Disorders Research (NORMENT)
-- 🌱 I’m currently learning advanced statistical methods/machine learning, Open Science and the creation of beautiful plots using R (and now learning Python). Former SPSS user. Send help. 
-- 💞️ My primary research interest is the relationship between the immune system and the brain (cognition) in severe mental illness. 
-- 🧠 My educational background is psychology (BSc), neuroscience (MSc) and biological/computational psychiatry (PhD)
-- 📫 Bluesky: @linnsofies.bsky.social
+- 🧠 I have a PhD in clinical neuroscience from the University of Oslo/former Norwegian Centre for Mental Disorders Research (NORMENT)
+- 🌱 I work as a Data Scientist at a bank and part-time researcher in academia, and I am interested in advanced statistics/machine learning/AI, Open Science, visualising data using R and Python. Former SPSS user. Send help. 
+- 💞️ Currently learning how to build apps! 
+
 
 <!---
 linnhub/linnhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
